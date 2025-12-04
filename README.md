@@ -114,14 +114,17 @@ Rf = 15K *2=30KΩ
 3.	By adjusting the amplitude and frequency knobs of the function generator, appropriate input voltage is applied to the inverting input terminal of the Op- Amp.
 4.	The output voltage is obtained in the CRO and the input and output voltage waveforms are plotted in a graph sheet.
 ---
+
 ## TABULATION/OBSERVATION
 ![20251203_214626](https://github.com/user-attachments/assets/08e7adb8-31dd-4f69-9f51-bee63502b3f1)
 
 ---
+
 ## OUT PUT WAVEFORM AND DISCUSSION 
 ![20251203_214643](https://github.com/user-attachments/assets/b06bf2c0-7b49-465c-8ed9-7527fa6e2a3f)
 
 ---
+
 ## RESULT:
 ![20251203_214654](https://github.com/user-attachments/assets/b569524a-0167-4a6a-8997-ac4d5dd86367)
 
